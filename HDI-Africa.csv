@@ -1,0 +1,584 @@
+﻿Country,ISO_Code,Year,HDI
+Algeria,DZA,2007,0.697
+Algeria,DZA,2008,0.705
+Algeria,DZA,2009,0.714
+Algeria,DZA,2010,0.721
+Algeria,DZA,2011,0.727
+Algeria,DZA,2012,0.729
+Algeria,DZA,2013,0.731
+Algeria,DZA,2014,0.735
+Algeria,DZA,2015,0.74
+Algeria,DZA,2016,0.743
+Algeria,DZA,2017,0.744
+Angola,AGO,2007,0.475
+Angola,AGO,2008,0.486
+Angola,AGO,2009,0.5
+Angola,AGO,2010,0.51
+Angola,AGO,2011,0.526
+Angola,AGO,2012,0.541
+Angola,AGO,2013,0.552
+Angola,AGO,2014,0.563
+Angola,AGO,2015,0.582
+Angola,AGO,2016,0.596
+Angola,AGO,2017,0.597
+Benin,BEN,2007,0.472
+Benin,BEN,2008,0.48
+Benin,BEN,2009,0.486
+Benin,BEN,2010,0.492
+Benin,BEN,2011,0.499
+Benin,BEN,2012,0.509
+Benin,BEN,2013,0.52
+Benin,BEN,2014,0.524
+Benin,BEN,2015,0.529
+Benin,BEN,2016,0.53
+Benin,BEN,2017,0.53
+Botswana,BWA,2007,0.632
+Botswana,BWA,2008,0.642
+Botswana,BWA,2009,0.647
+Botswana,BWA,2010,0.66
+Botswana,BWA,2011,0.669
+Botswana,BWA,2012,0.674
+Botswana,BWA,2013,0.687
+Botswana,BWA,2014,0.696
+Botswana,BWA,2015,0.702
+Botswana,BWA,2016,0.713
+Botswana,BWA,2017,0.722
+Burkina Faso,BFA,2007,0.334
+Burkina Faso,BFA,2008,0.349
+Burkina Faso,BFA,2009,0.36
+Burkina Faso,BFA,2010,0.372
+Burkina Faso,BFA,2011,0.384
+Burkina Faso,BFA,2012,0.395
+Burkina Faso,BFA,2013,0.402
+Burkina Faso,BFA,2014,0.408
+Burkina Faso,BFA,2015,0.418
+Burkina Faso,BFA,2016,0.427
+Burkina Faso,BFA,2017,0.438
+Burundi,BDI,2007,0.372
+Burundi,BDI,2008,0.386
+Burundi,BDI,2009,0.395
+Burundi,BDI,2010,0.405
+Burundi,BDI,2011,0.41
+Burundi,BDI,2012,0.416
+Burundi,BDI,2013,0.421
+Burundi,BDI,2014,0.426
+Burundi,BDI,2015,0.428
+Burundi,BDI,2016,0.43
+Burundi,BDI,2017,0.428
+Cameroon,CMR,2007,0.489
+Cameroon,CMR,2008,0.497
+Cameroon,CMR,2009,0.506
+Cameroon,CMR,2010,0.513
+Cameroon,CMR,2011,0.521
+Cameroon,CMR,2012,0.533
+Cameroon,CMR,2013,0.542
+Cameroon,CMR,2014,0.551
+Cameroon,CMR,2015,0.56
+Cameroon,CMR,2016,0.564
+Cameroon,CMR,2017,0.571
+Cape Verde,CPV,2007,0.629
+Cape Verde,CPV,2008,0.635
+Cape Verde,CPV,2009,0.639
+Cape Verde,CPV,2010,0.644
+Cape Verde,CPV,2011,0.653
+Cape Verde,CPV,2012,0.656
+Cape Verde,CPV,2013,0.666
+Cape Verde,CPV,2014,0.667
+Cape Verde,CPV,2015,0.663
+Cape Verde,CPV,2016,0.67
+Cape Verde,CPV,2017,0.675
+Central African Republic CAR,CAF,2007,0.351
+Central African Republic CAR,CAF,2008,0.358
+Central African Republic CAR,CAF,2009,0.364
+Central African Republic CAR,CAF,2010,0.372
+Central African Republic CAR,CAF,2011,0.381
+Central African Republic CAR,CAF,2012,0.388
+Central African Republic CAR,CAF,2013,0.368
+Central African Republic CAR,CAF,2014,0.37
+Central African Republic CAR,CAF,2015,0.384
+Central African Republic CAR,CAF,2016,0.391
+Central African Republic CAR,CAF,2017,0.398
+Chad,TCD,2007,0.337
+Chad,TCD,2008,0.341
+Chad,TCD,2009,0.355
+Chad,TCD,2010,0.362
+Chad,TCD,2011,0.372
+Chad,TCD,2012,0.381
+Chad,TCD,2013,0.386
+Chad,TCD,2014,0.393
+Chad,TCD,2015,0.389
+Chad,TCD,2016,0.391
+Chad,TCD,2017,0.393
+Comoros,COM,2007,0.5
+Comoros,COM,2008,0.507
+Comoros,COM,2009,0.513
+Comoros,COM,2010,0.52
+Comoros,COM,2011,0.527
+Comoros,COM,2012,0.533
+Comoros,COM,2013,0.539
+Comoros,COM,2014,0.54
+Comoros,COM,2015,0.544
+Comoros,COM,2016,0.548
+Comoros,COM,2017,0.553
+Congo Brazzaville,COG,2007,0.533
+Congo Brazzaville,COG,2008,0.541
+Congo Brazzaville,COG,2009,0.554
+Congo Brazzaville,COG,2010,0.561
+Congo Brazzaville,COG,2011,0.564
+Congo Brazzaville,COG,2012,0.575
+Congo Brazzaville,COG,2013,0.58
+Congo Brazzaville,COG,2014,0.589
+Congo Brazzaville,COG,2015,0.59
+Congo Brazzaville,COG,2016,0.586
+Congo Brazzaville,COG,2017,0.58
+Congo Democratic Republic,COD,2007,0.406
+Congo Democratic Republic,COD,2008,0.416
+Congo Democratic Republic,COD,2009,0.421
+Congo Democratic Republic,COD,2010,0.429
+Congo Democratic Republic,COD,2011,0.438
+Congo Democratic Republic,COD,2012,0.44
+Congo Democratic Republic,COD,2013,0.446
+Congo Democratic Republic,COD,2014,0.455
+Congo Democratic Republic,COD,2015,0.463
+Congo Democratic Republic,COD,2016,0.472
+Congo Democratic Republic,COD,2017,0.475
+Cote d'Ivoire,CIV,2007,0.461
+Cote d'Ivoire,CIV,2008,0.464
+Cote d'Ivoire,CIV,2009,0.469
+Cote d'Ivoire,CIV,2010,0.473
+Cote d'Ivoire,CIV,2011,0.472
+Cote d'Ivoire,CIV,2012,0.477
+Cote d'Ivoire,CIV,2013,0.483
+Cote d'Ivoire,CIV,2014,0.502
+Cote d'Ivoire,CIV,2015,0.513
+Cote d'Ivoire,CIV,2016,0.524
+Cote d'Ivoire,CIV,2017,0.534
+Djibouti,DJI,2007,0.426
+Djibouti,DJI,2008,0.434
+Djibouti,DJI,2009,0.445
+Djibouti,DJI,2010,0.458
+Djibouti,DJI,2011,0.47
+Djibouti,DJI,2012,0.478
+Djibouti,DJI,2013,0.483
+Djibouti,DJI,2014,0.488
+Djibouti,DJI,2015,0.493
+Djibouti,DJI,2016,0.496
+Djibouti,DJI,2017,0.499
+Egypt,EGY,2007,0.655
+Egypt,EGY,2008,0.663
+Egypt,EGY,2009,0.668
+Egypt,EGY,2010,0.675
+Egypt,EGY,2011,0.679
+Egypt,EGY,2012,0.688
+Egypt,EGY,2013,0.694
+Egypt,EGY,2014,0.699
+Egypt,EGY,2015,0.706
+Egypt,EGY,2016,0.713
+Egypt,EGY,2017,0.721
+Equatorial Guinea,GNQ,2007,0.578
+Equatorial Guinea,GNQ,2008,0.582
+Equatorial Guinea,GNQ,2009,0.586
+Equatorial Guinea,GNQ,2010,0.579
+Equatorial Guinea,GNQ,2011,0.585
+Equatorial Guinea,GNQ,2012,0.592
+Equatorial Guinea,GNQ,2013,0.594
+Equatorial Guinea,GNQ,2014,0.598
+Equatorial Guinea,GNQ,2015,0.603
+Equatorial Guinea,GNQ,2016,0.603
+Equatorial Guinea,GNQ,2017,0.601
+Eritrea,ERI,2007,0.457
+Eritrea,ERI,2008,0.448
+Eritrea,ERI,2009,0.457
+Eritrea,ERI,2010,0.463
+Eritrea,ERI,2011,0.481
+Eritrea,ERI,2012,0.486
+Eritrea,ERI,2013,0.483
+Eritrea,ERI,2014,0.502
+Eritrea,ERI,2015,0.483
+Eritrea,ERI,2016,0.488
+Eritrea,ERI,2017,0.484
+Eswatini,SWZ,2007,0.471
+Eswatini,SWZ,2008,0.479
+Eswatini,SWZ,2009,0.486
+Eswatini,SWZ,2010,0.503
+Eswatini,SWZ,2011,0.517
+Eswatini,SWZ,2012,0.531
+Eswatini,SWZ,2013,0.546
+Eswatini,SWZ,2014,0.559
+Eswatini,SWZ,2015,0.575
+Eswatini,SWZ,2016,0.586
+Eswatini,SWZ,2017,0.596
+Ethiopia,ETH,2007,0.38
+Ethiopia,ETH,2008,0.395
+Ethiopia,ETH,2009,0.402
+Ethiopia,ETH,2010,0.412
+Ethiopia,ETH,2011,0.422
+Ethiopia,ETH,2012,0.43
+Ethiopia,ETH,2013,0.441
+Ethiopia,ETH,2014,0.45
+Ethiopia,ETH,2015,0.46
+Ethiopia,ETH,2016,0.47
+Ethiopia,ETH,2017,0.48
+Gabon,GAB,2007,0.655
+Gabon,GAB,2008,0.655
+Gabon,GAB,2009,0.66
+Gabon,GAB,2010,0.664
+Gabon,GAB,2011,0.668
+Gabon,GAB,2012,0.679
+Gabon,GAB,2013,0.685
+Gabon,GAB,2014,0.694
+Gabon,GAB,2015,0.699
+Gabon,GAB,2016,0.702
+Gabon,GAB,2017,0.706
+Gambia,GMB,2007,0.442
+Gambia,GMB,2008,0.45
+Gambia,GMB,2009,0.455
+Gambia,GMB,2010,0.46
+Gambia,GMB,2011,0.46
+Gambia,GMB,2012,0.467
+Gambia,GMB,2013,0.471
+Gambia,GMB,2014,0.473
+Gambia,GMB,2015,0.478
+Gambia,GMB,2016,0.484
+Gambia,GMB,2017,0.489
+Ghana,GHA,2007,0.55
+Ghana,GHA,2008,0.561
+Ghana,GHA,2009,0.566
+Ghana,GHA,2010,0.574
+Ghana,GHA,2011,0.585
+Ghana,GHA,2012,0.592
+Ghana,GHA,2013,0.6
+Ghana,GHA,2014,0.6
+Ghana,GHA,2015,0.607
+Ghana,GHA,2016,0.611
+Ghana,GHA,2017,0.616
+Guinea,GIN,2007,0.402
+Guinea,GIN,2008,0.408
+Guinea,GIN,2009,0.41
+Guinea,GIN,2010,0.415
+Guinea,GIN,2011,0.42
+Guinea,GIN,2012,0.425
+Guinea,GIN,2013,0.429
+Guinea,GIN,2014,0.435
+Guinea,GIN,2015,0.44
+Guinea,GIN,2016,0.45
+Guinea,GIN,2017,0.458
+Guinea Bissau,GNB,2007,0.424
+Guinea Bissau,GNB,2008,0.429
+Guinea Bissau,GNB,2009,0.436
+Guinea Bissau,GNB,2010,0.443
+Guinea Bissau,GNB,2011,0.452
+Guinea Bissau,GNB,2012,0.456
+Guinea Bissau,GNB,2013,0.46
+Guinea Bissau,GNB,2014,0.466
+Guinea Bissau,GNB,2015,0.472
+Guinea Bissau,GNB,2016,0.478
+Guinea Bissau,GNB,2017,0.481
+Kenya,KEN,2007,0.533
+Kenya,KEN,2008,0.539
+Kenya,KEN,2009,0.539
+Kenya,KEN,2010,0.545
+Kenya,KEN,2011,0.55
+Kenya,KEN,2012,0.552
+Kenya,KEN,2013,0.554
+Kenya,KEN,2014,0.558
+Kenya,KEN,2015,0.561
+Kenya,KEN,2016,0.569
+Kenya,KEN,2017,0.572
+Lesotho,LSO,2007,0.452
+Lesotho,LSO,2008,0.457
+Lesotho,LSO,2009,0.457
+Lesotho,LSO,2010,0.467
+Lesotho,LSO,2011,0.475
+Lesotho,LSO,2012,0.486
+Lesotho,LSO,2013,0.49
+Lesotho,LSO,2014,0.496
+Lesotho,LSO,2015,0.503
+Lesotho,LSO,2016,0.514
+Lesotho,LSO,2017,0.518
+Liberia,LBR,2007,0.448
+Liberia,LBR,2008,0.453
+Liberia,LBR,2009,0.456
+Liberia,LBR,2010,0.46
+Liberia,LBR,2011,0.464
+Liberia,LBR,2012,0.47
+Liberia,LBR,2013,0.475
+Liberia,LBR,2014,0.472
+Liberia,LBR,2015,0.473
+Liberia,LBR,2016,0.478
+Liberia,LBR,2017,0.481
+Libya,LBY,2007,0.741
+Libya,LBY,2008,0.741
+Libya,LBY,2009,0.738
+Libya,LBY,2010,0.739
+Libya,LBY,2011,0.69
+Libya,LBY,2012,0.726
+Libya,LBY,2013,0.716
+Libya,LBY,2014,0.699
+Libya,LBY,2015,0.699
+Libya,LBY,2016,0.696
+Libya,LBY,2017,0.714
+Madagascar,MDG,2007,0.482
+Madagascar,MDG,2008,0.49
+Madagascar,MDG,2009,0.493
+Madagascar,MDG,2010,0.492
+Madagascar,MDG,2011,0.494
+Madagascar,MDG,2012,0.496
+Madagascar,MDG,2013,0.499
+Madagascar,MDG,2014,0.502
+Madagascar,MDG,2015,0.504
+Madagascar,MDG,2016,0.505
+Madagascar,MDG,2017,0.507
+Malawi,MWI,2007,0.423
+Malawi,MWI,2008,0.433
+Malawi,MWI,2009,0.445
+Malawi,MWI,2010,0.456
+Malawi,MWI,2011,0.463
+Malawi,MWI,2012,0.47
+Malawi,MWI,2013,0.478
+Malawi,MWI,2014,0.487
+Malawi,MWI,2015,0.491
+Malawi,MWI,2016,0.498
+Malawi,MWI,2017,0.505
+Mali,MLI,2007,0.382
+Mali,MLI,2008,0.39
+Mali,MLI,2009,0.397
+Mali,MLI,2010,0.404
+Mali,MLI,2011,0.409
+Mali,MLI,2012,0.407
+Mali,MLI,2013,0.407
+Mali,MLI,2014,0.415
+Mali,MLI,2015,0.416
+Mali,MLI,2016,0.421
+Mali,MLI,2017,0.426
+Mauritania,MRT,2007,0.499
+Mauritania,MRT,2008,0.499
+Mauritania,MRT,2009,0.508
+Mauritania,MRT,2010,0.51
+Mauritania,MRT,2011,0.515
+Mauritania,MRT,2012,0.523
+Mauritania,MRT,2013,0.531
+Mauritania,MRT,2014,0.537
+Mauritania,MRT,2015,0.544
+Mauritania,MRT,2016,0.541
+Mauritania,MRT,2017,0.545
+Mauritius,MUS,2007,0.734
+Mauritius,MUS,2008,0.741
+Mauritius,MUS,2009,0.749
+Mauritius,MUS,2010,0.755
+Mauritius,MUS,2011,0.762
+Mauritius,MUS,2012,0.775
+Mauritius,MUS,2013,0.782
+Mauritius,MUS,2014,0.793
+Mauritius,MUS,2015,0.795
+Mauritius,MUS,2016,0.801
+Mauritius,MUS,2017,0.805
+Morocco,MAR,2007,0.581
+Morocco,MAR,2008,0.588
+Morocco,MAR,2009,0.594
+Morocco,MAR,2010,0.603
+Morocco,MAR,2011,0.614
+Morocco,MAR,2012,0.624
+Morocco,MAR,2013,0.635
+Morocco,MAR,2014,0.644
+Morocco,MAR,2015,0.654
+Morocco,MAR,2016,0.661
+Morocco,MAR,2017,0.67
+Mozambique,MOZ,2007,0.377
+Mozambique,MOZ,2008,0.387
+Mozambique,MOZ,2009,0.395
+Mozambique,MOZ,2010,0.402
+Mozambique,MOZ,2011,0.407
+Mozambique,MOZ,2012,0.413
+Mozambique,MOZ,2013,0.427
+Mozambique,MOZ,2014,0.433
+Mozambique,MOZ,2015,0.44
+Mozambique,MOZ,2016,0.443
+Mozambique,MOZ,2017,0.445
+Namibia,NAM,2007,0.569
+Namibia,NAM,2008,0.576
+Namibia,NAM,2009,0.581
+Namibia,NAM,2010,0.585
+Namibia,NAM,2011,0.592
+Namibia,NAM,2012,0.601
+Namibia,NAM,2013,0.611
+Namibia,NAM,2014,0.621
+Namibia,NAM,2015,0.628
+Namibia,NAM,2016,0.632
+Namibia,NAM,2017,0.635
+Niger,NER,2007,0.311
+Niger,NER,2008,0.32
+Niger,NER,2009,0.327
+Niger,NER,2010,0.338
+Niger,NER,2011,0.346
+Niger,NER,2012,0.354
+Niger,NER,2013,0.362
+Niger,NER,2014,0.37
+Niger,NER,2015,0.376
+Niger,NER,2016,0.383
+Niger,NER,2017,0.39
+Nigeria,NGA,2007,0.48
+Nigeria,NGA,2008,0.484
+Nigeria,NGA,2009,0.484
+Nigeria,NGA,2010,0.482
+Nigeria,NGA,2011,0.492
+Nigeria,NGA,2012,0.499
+Nigeria,NGA,2013,0.506
+Nigeria,NGA,2014,0.512
+Nigeria,NGA,2015,0.516
+Nigeria,NGA,2016,0.521
+Nigeria,NGA,2017,0.526
+Rwanda,RWA,2007,0.456
+Rwanda,RWA,2008,0.467
+Rwanda,RWA,2009,0.48
+Rwanda,RWA,2010,0.489
+Rwanda,RWA,2011,0.497
+Rwanda,RWA,2012,0.506
+Rwanda,RWA,2013,0.508
+Rwanda,RWA,2014,0.513
+Rwanda,RWA,2015,0.515
+Rwanda,RWA,2016,0.524
+Rwanda,RWA,2017,0.526
+Sao Tome & Principe,STP,2007,0.545
+Sao Tome & Principe,STP,2008,0.546
+Sao Tome & Principe,STP,2009,0.552
+Sao Tome & Principe,STP,2010,0.554
+Sao Tome & Principe,STP,2011,0.556
+Sao Tome & Principe,STP,2012,0.562
+Sao Tome & Principe,STP,2013,0.573
+Sao Tome & Principe,STP,2014,0.584
+Sao Tome & Principe,STP,2015,0.596
+Sao Tome & Principe,STP,2016,0.603
+Sao Tome & Principe,STP,2017,0.612
+Senegal,SEN,2007,0.439
+Senegal,SEN,2008,0.451
+Senegal,SEN,2009,0.459
+Senegal,SEN,2010,0.468
+Senegal,SEN,2011,0.482
+Senegal,SEN,2012,0.49
+Senegal,SEN,2013,0.496
+Senegal,SEN,2014,0.502
+Senegal,SEN,2015,0.505
+Senegal,SEN,2016,0.507
+Senegal,SEN,2017,0.509
+Sierra Leone,SLE,2007,0.397
+Sierra Leone,SLE,2008,0.409
+Sierra Leone,SLE,2009,0.42
+Sierra Leone,SLE,2010,0.427
+Sierra Leone,SLE,2011,0.433
+Sierra Leone,SLE,2012,0.447
+Sierra Leone,SLE,2013,0.459
+Sierra Leone,SLE,2014,0.461
+Sierra Leone,SLE,2015,0.453
+Sierra Leone,SLE,2016,0.457
+Sierra Leone,SLE,2017,0.466
+Somalia,SOM,2007,0.377
+Somalia,SOM,2008,0.366
+Somalia,SOM,2009,0.355
+Somalia,SOM,2010,0.343
+Somalia,SOM,2011,0.33
+Somalia,SOM,2012,0.318
+Somalia,SOM,2013,0.321
+Somalia,SOM,2014,0.328
+Somalia,SOM,2015,0.339
+Somalia,SOM,2016,0.344
+Somalia,SOM,2017,0.35
+South Africa,ZAF,2007,0.644
+South Africa,ZAF,2008,0.653
+South Africa,ZAF,2009,0.665
+South Africa,ZAF,2010,0.675
+South Africa,ZAF,2011,0.686
+South Africa,ZAF,2012,0.696
+South Africa,ZAF,2013,0.704
+South Africa,ZAF,2014,0.712
+South Africa,ZAF,2015,0.716
+South Africa,ZAF,2016,0.719
+South Africa,ZAF,2017,0.72
+South Sudan,SSD,2007,
+South Sudan,SSD,2008,
+South Sudan,SSD,2009,
+South Sudan,SSD,2010,0.43
+South Sudan,SSD,2011,0.433
+South Sudan,SSD,2012,0.397
+South Sudan,SSD,2013,0.411
+South Sudan,SSD,2014,0.41
+South Sudan,SSD,2015,0.412
+South Sudan,SSD,2016,0.402
+South Sudan,SSD,2017,0.395
+Sudan,SDN,2007,0.47
+Sudan,SDN,2008,0.478
+Sudan,SDN,2009,0.486
+Sudan,SDN,2010,0.486
+Sudan,SDN,2011,0.487
+Sudan,SDN,2012,0.493
+Sudan,SDN,2013,0.497
+Sudan,SDN,2014,0.504
+Sudan,SDN,2015,0.508
+Sudan,SDN,2016,0.511
+Sudan,SDN,2017,0.514
+Tanzania,TZA,2007,0.465
+Tanzania,TZA,2008,0.473
+Tanzania,TZA,2009,0.482
+Tanzania,TZA,2010,0.493
+Tanzania,TZA,2011,0.499
+Tanzania,TZA,2012,0.504
+Tanzania,TZA,2013,0.51
+Tanzania,TZA,2014,0.515
+Tanzania,TZA,2015,0.52
+Tanzania,TZA,2016,0.524
+Tanzania,TZA,2017,0.528
+Togo,TGO,2007,0.457
+Togo,TGO,2008,0.464
+Togo,TGO,2009,0.472
+Togo,TGO,2010,0.477
+Togo,TGO,2011,0.487
+Togo,TGO,2012,0.491
+Togo,TGO,2013,0.499
+Togo,TGO,2014,0.505
+Togo,TGO,2015,0.514
+Togo,TGO,2016,0.518
+Togo,TGO,2017,0.524
+Tunisia,TUN,2007,0.706
+Tunisia,TUN,2008,0.711
+Tunisia,TUN,2009,0.715
+Tunisia,TUN,2010,0.72
+Tunisia,TUN,2011,0.722
+Tunisia,TUN,2012,0.724
+Tunisia,TUN,2013,0.727
+Tunisia,TUN,2014,0.73
+Tunisia,TUN,2015,0.733
+Tunisia,TUN,2016,0.737
+Tunisia,TUN,2017,0.74
+Uganda,UGA,2007,0.476
+Uganda,UGA,2008,0.484
+Uganda,UGA,2009,0.494
+Uganda,UGA,2010,0.502
+Uganda,UGA,2011,0.506
+Uganda,UGA,2012,0.504
+Uganda,UGA,2013,0.509
+Uganda,UGA,2014,0.512
+Uganda,UGA,2015,0.517
+Uganda,UGA,2016,0.519
+Uganda,UGA,2017,0.52
+Zambia,ZMB,2007,0.495
+Zambia,ZMB,2008,0.506
+Zambia,ZMB,2009,0.519
+Zambia,ZMB,2010,0.529
+Zambia,ZMB,2011,0.534
+Zambia,ZMB,2012,0.548
+Zambia,ZMB,2013,0.554
+Zambia,ZMB,2014,0.557
+Zambia,ZMB,2015,0.562
+Zambia,ZMB,2016,0.564
+Zambia,ZMB,2017,0.568
+Zimbabwe,ZWE,2007,0.454
+Zimbabwe,ZWE,2008,0.454
+Zimbabwe,ZWE,2009,0.486
+Zimbabwe,ZWE,2010,0.512
+Zimbabwe,ZWE,2011,0.535
+Zimbabwe,ZWE,2012,0.557
+Zimbabwe,ZWE,2013,0.567
+Zimbabwe,ZWE,2014,0.576
+Zimbabwe,ZWE,2015,0.582
+Zimbabwe,ZWE,2016,0.588
+Zimbabwe,ZWE,2017,0.594
